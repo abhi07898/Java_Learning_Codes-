@@ -1,0 +1,3 @@
+#this  is comment line......
+print("Hello word"); 
+input("Press enetr for exist ");
