@@ -1,0 +1,1 @@
+#include<stdio.h>  #include<conio.h> void main()  { clrscr();    printf("thsi isfile handling with java buffered class"); getch();  }  
